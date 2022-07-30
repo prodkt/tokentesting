@@ -1,0 +1,27 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -c ./tailwind.config.js -i core-css/core.css -o src/core.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prodkt/tokentesting.git"
+  },
+  "keywords": [
+    "prodkt"
+  ],
+  "author": "bryan funk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/prodkt/tokentesting/issues"
+  },
+  "homepage": "https://github.com/prodkt/tokentesting#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.7"
+  }
+}

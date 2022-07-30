@@ -1,0 +1,25 @@
+{
+  "name": "style-dictionary",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prodkt/tokentesting.git"
+  },
+  "keywords": [
+    "prodkt"
+  ],
+  "author": "bryan funk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/prodkt/tokentesting/issues"
+  },
+  "homepage": "https://github.com/prodkt/tokentesting#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.7.1"
+  }
+}

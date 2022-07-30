@@ -1,0 +1,10 @@
+{
+  "core": {
+    "radius": {
+      "00": {
+        "value": "0",
+        "type": "borderRadius"
+      }
+    }
+  }
+}

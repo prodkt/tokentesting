@@ -1,0 +1,14 @@
+{
+  "core": {
+    "spacing": {
+      "00": {
+        "value": "0",
+        "type": "spacing"
+      },
+      "01": {
+        "value": "1",
+        "type": "spacing"
+      }
+    }
+  }
+}
